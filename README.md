@@ -9,4 +9,4 @@ Pasos para ejecutar proyecto:
 
 ## Produccion
 1. Ejecutar el comando ```npm run buil```
-2. Subir la carpeta dist
+2. Tomar la carpeta ```dist``` y subirla
